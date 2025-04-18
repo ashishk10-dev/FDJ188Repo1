@@ -12,4 +12,9 @@ public class AdmisionController {
 		System.out.println("I am Get Admission Data method in Admission Client");
 		return "Admission Data....!!!";
 	}
+
+	public static void m1()
+	{
+
+	}
 }
